@@ -52,6 +52,7 @@ endmodule
 ~~~
 
 **RTL LOGIC FOR SISO Shift Register**
+
 ![Screenshot 2024-05-07 222528](https://github.com/vijayashreeb14/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/161238151/2dd40c83-040e-468c-8071-01333e3f5bbf)
 
 **TIMING DIGRAMS FOR SISO Shift Register**
